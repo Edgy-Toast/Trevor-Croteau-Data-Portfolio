@@ -1,3 +1,5 @@
 # Trevor Croteau's Data Science Portfolio
 This is a place for my journey through learning data science. I will include the code produced for each project of my mine as well as a brief description and the visualizations produced. This page was first published March 23, 2022.
-# What may the first project be?
+# The Covid-19 Section
+### Data
+Johns Hopkins University Center for Systems Science and Engineering (CSSE) has done a wonderful job at keeping up-to-date information on the novel Covid-19 pandemic. The github Covid-19 dataset can be found at https://github.com/datasets/covid-19 under an open-source license. It is already cleaned, and so we can begin on analysis steps.
