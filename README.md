@@ -3,4 +3,5 @@ This is a place for my journey through learning data science. I will include the
 # The Covid-19 Section
 ### Data
 Johns Hopkins University Center for Systems Science and Engineering (CSSE) has done a wonderful job at keeping up-to-date information on the novel Covid-19 pandemic. The github Covid-19 dataset can be found at https://github.com/datasets/covid-19 under an open-source license. It is already cleaned, and so we can begin on analysis steps.
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<br>
+![hippo](https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/country-dynamics.gif)
