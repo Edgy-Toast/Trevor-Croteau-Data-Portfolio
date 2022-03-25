@@ -8,5 +8,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     <b>Confirmed Cases of Covid-19 for the 10 Most Populous Countries</b> <br>
     <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_confirmed.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_confirmed.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
-<img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/country_dynamics_confirmed.gif" alt="Confirmed Aggregated" width="100%" class="center"/>
-<img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/country_dynamics_deaths.gif" alt="Death Rate Aggregated" width="100%" class="center"/>
+<p align="center">
+    <b>Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
+    <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_deathrate.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_deathrate.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
+</p>
