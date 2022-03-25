@@ -9,6 +9,6 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="49.5%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50.5%" style="display: inline; border-width: 0px;" />
 </p>
 <p align="center">
-    <b>Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
+    <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
     <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="49.8%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50.2%" style="display: inline; border-width: 0px;" />
 </p>
