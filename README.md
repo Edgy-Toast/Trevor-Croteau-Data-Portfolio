@@ -6,6 +6,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 <br>
 <p align="center">
     Words <br>
+    <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_confirmed.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_confirmed.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
 <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_confirmed.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_confirmed.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/country_dynamics_confirmed.gif" alt="Confirmed Aggregated" width="100%" class="center"/>
