@@ -12,6 +12,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
     <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
+<br>
 # The Sea Levels Section
 This is a project for a Climate Dashboard website: When published, this will be updated with its link. For now, we have simply demonstrations of what will be on the site.
 ### Changing Sea Level Animations
