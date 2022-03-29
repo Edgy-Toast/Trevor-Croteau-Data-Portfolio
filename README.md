@@ -18,4 +18,8 @@ This is a project for a Climate Dashboard website: When published, this will be 
 ### Changing Sea Level Animations
 Although it is not made clear in the images, they run from 0ft change in sea level to a 10ft change in sea level. This is instead made clear via the website's UI.
 <br>
-<p align="center"><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/FL_bathtub.gif" alt="Florida Bathtub Model" width="50%" style="display: inline; border-width: 0px;" /></p>
+<p align="center"><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/FL_bathtub.gif" alt="Florida Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
+<br>
+<p align="center"><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/TX_bathtub.gif" alt="Texas Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
+<br>
+<p align="center"><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/NJ_bathtub.gif" alt="New Jersey Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
