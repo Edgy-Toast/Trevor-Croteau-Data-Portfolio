@@ -13,7 +13,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
 <p align="center">
-    <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b> <br> Can you spot any suspicious subjects? <br>
+    <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b> <br> Can you spot any suspicious subjects?
     <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/Population_Sizes.png" alt="Population Sizes" width="100%" style="display: inline; border-width: 0px;" />
 </p>
 
