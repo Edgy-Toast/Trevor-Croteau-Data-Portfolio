@@ -9,6 +9,10 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     <img src="{{site.url}}/assets/img/bar_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="{{site.url}}/assets/img/lineplot_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
 <p align="center">
+    <b>Confirmed Cases of Covid-19 for the 10 Most Populous Countries</b> <br>
+    <img src="{{site.url}}/docs/assets/img/bar_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="{{site.url}}/docs/assets/img/lineplot_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
+</p>
+<p align="center">
     <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
     <img src="{{site.url}}/assets/img/bar_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="{{site.url}}/assets/img/lineplot_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
