@@ -1,6 +1,6 @@
-<p style = "color:#93bd20"> # Trevor Croteau's Data Science Portfolio </p>
+<h1 style = "color:#93bd20"> Trevor Croteau's Data Science Portfolio </h1>
 This is a place for my journey through learning data science. I will include the code produced for each project of my mine as well as a brief description and the visualizations produced. This page was first published March 23, 2022.
-# The Covid-19 Section
+<h1 style = "color:#93bd20"> The Covid-19 Section </h1>
 ### Data
 Johns Hopkins University Center for Systems Science and Engineering (CSSE) has done a wonderful job at keeping up-to-date information on the novel Covid-19 pandemic. The github Covid-19 dataset can be found at https://github.com/datasets/covid-19 under an open-source license. It is already cleaned, and so we can begin on analysis steps.
 <br>
@@ -17,7 +17,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     <img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="100%" style="display: inline; border-width: 0px;" />
 </p>
 
-# The Sea Levels Section
+<h1 style = "color:#93bd20"> The Sea Levels Section </h1>
 This is a project for a Climate Dashboard website: When published, this will be updated with its link. For now, we have simply demonstrations of what will be on the site.
 ### Changing Sea Level Animations
 Although it is not made clear in the images, they run from 0ft change in sea level to a 10ft change in sea level. This is instead made clear via the website's UI.
