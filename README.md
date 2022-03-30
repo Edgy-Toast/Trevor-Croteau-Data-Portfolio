@@ -6,15 +6,15 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 <br>
 <p align="center">
     <b>Confirmed Cases of Covid-19 for the 10 Most Populous Countries</b> <br>
-    <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
+    <img src="./bar_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="./lineplot_confirmed_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
 <p align="center">
     <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
-    <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/bar_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
+    <img src="./bar_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
 <p align="center">
     <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b> <br> Can you spot any suspicious subjects?
-    <img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/Population_Sizes.png" alt="Population Sizes" width="100%" style="display: inline; border-width: 0px;" />
+    <img src="./Population_Sizes.png" alt="Population Sizes" width="100%" style="display: inline; border-width: 0px;" />
 </p>
 
 # The Sea Levels Section
@@ -22,8 +22,8 @@ This is a project for a Climate Dashboard website: When published, this will be 
 ### Changing Sea Level Animations
 Although it is not made clear in the images, they run from 0ft change in sea level to a 10ft change in sea level. This is instead made clear via the website's UI.
 <br>
-<p align="center"><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/FL_bathtub.gif" alt="Florida Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
+<p align="center"><img src="./FL_bathtub.gif" alt="Florida Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
 <br>
-<p align="center"><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/TX_bathtub.gif" alt="Texas Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
+<p align="center"><img src="./TX_bathtub.gif" alt="Texas Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
 <br>
-<p align="center"><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/NJ_bathtub.gif" alt="New Jersey Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
+<p align="center"><img src="./NJ_bathtub.gif" alt="New Jersey Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
