@@ -10,7 +10,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 </p>
 <p align="center">
     <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
-    <img src="My-Data-Science-Portfolio/assets/img/bar_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="https://github.com/Edgy-Toast/My-Data-Science-Portfolio/blob/main/lineplot_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
+    <img src="My-Data-Science-Portfolio/assets/img/bar_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" /><img src="My-Data-Science-Portfolio/assets/img/lineplot_deathrate_cropped.gif" alt="Bar graph of confirmed cases" width="50%" style="display: inline; border-width: 0px;" />
 </p>
 <p align="center">
     <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b> <br> Can you spot any suspicious subjects?
