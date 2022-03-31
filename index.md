@@ -11,15 +11,17 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     <source src="{{site.url}}/docs/assets/img/covid_confirmed.mp4" type="video/mp4">
 </video>
 <p align="center" style="color:#ffcc00">
-    <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
+    <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b>
 </p>
+<p align="center">(as a % of confirmed cases)</p>
 <video autoplay loop muted playsinline width="100%">
     <source src="{{site.url}}/docs/assets/img/covid_deathrate.mp4" type="video/mp4">
 </video>
 <p align="center" style="color:#ffcc00">
-    <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b> <br> Can you spot any suspicious subjects?
-    <img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="100%" style="display: inline; border-width: 0px;" />
+    <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b>
 </p>
+<p align="center">Can you spot any outliers? What may contribute?</p>
+<img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="100%" style="display: inline; border-width: 0px;" />
 
 <h1 style = "color:#93bd20"> The Sea Levels Section </h1>
 This is a project for a Climate Dashboard website: When published, this will be updated with its link. For now, we have simply demonstrations of what will be on the site.
