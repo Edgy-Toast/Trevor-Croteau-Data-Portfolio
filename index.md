@@ -18,7 +18,7 @@ This is a place for my journey through learning data science. I will include the
     <img src="{{site.url}}/docs/assets/img/logos/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/materialui-original.svg" title="Material UI" width="40" height="40"/>&nbsp;
-    <img src="{{site.url}}/docs/assets/img/logos/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/html5-original-wordmark.svg" title="HTML5" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40"/>&nbsp;
 </div>
