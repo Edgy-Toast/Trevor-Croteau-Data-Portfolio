@@ -1,4 +1,3 @@
-<video autoplay loop muted playsinline></video>
 <h1 style = "color:#93bd20"> Trevor Croteau's Data Science Portfolio </h1>
 This is a place for my journey through learning data science. I will include the code produced for each project of my mine as well as a brief description and the visualizations produced. This page was first published March 23, 2022.
 <h1 style = "color:#93bd20"> The Covid-19 Section </h1>
