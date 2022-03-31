@@ -10,14 +10,14 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 <video autoplay loop muted playsinline width="100%">
     <source src="{{site.url}}/docs/assets/img/covid_confirmed.mp4" type="video/mp4">
 </video>
-<p align="center" style="color:#ffcc00">
+<p align="center" style="margin-bottom:0; color:#ffcc00">
     <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b>
 </p>
 <p align="center">(as a % of confirmed cases)</p>
 <video autoplay loop muted playsinline width="100%">
     <source src="{{site.url}}/docs/assets/img/covid_deathrate.mp4" type="video/mp4">
 </video>
-<p align="center" style="color:#ffcc00">
+<p align="center" style="margin-bottom:0; color:#ffcc00">
     <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b>
 </p>
 <p align="center">Can you spot any outliers? What may contribute?</p>
