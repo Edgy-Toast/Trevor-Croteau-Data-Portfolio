@@ -8,6 +8,7 @@ This is a place for my journey through learning data science. I will include the
     <li>Completing my Astronomy courses at Texas A&M.</li>
 </ul>
 <h1 style = "color:#93bd20"> 🛠️ Languages and Tools </h1>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
