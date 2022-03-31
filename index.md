@@ -22,6 +22,7 @@ This is a place for my journey through learning data science. I will include the
     <img src="{{site.url}}/docs/assets/img/logos/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+<br>
 <h1 style = "color:#93bd20"> 🦠 The Covid-19 Section </h1>
 <h3 style = "color:#659e10"> Data </h3>
 Johns Hopkins University Center for Systems Science and Engineering (CSSE) has done a wonderful job at keeping up-to-date information on the novel Covid-19 pandemic. The github Covid-19 dataset can be found at https://github.com/datasets/covid-19 under an open-source license. It is already cleaned, and so we can begin on analysis steps.
@@ -48,7 +49,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 <center>
     <img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="75%"/>
 </center>
-
+<br>
 <h1 style = "color:#93bd20"> 🌊 The Sea Levels Section : </h1>
 This is a project for a Climate Dashboard website: When published, this will be updated with its link. For now, we have simply demonstrations of what will be on the site.
 <h3 style = "color:#659e10"> Changing Sea Level Animations </h3>
