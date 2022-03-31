@@ -24,7 +24,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 </p>
 <p align="center" style="margin-top:0; paddding-top:0">Can you spot any outliers? What may contribute?</p>
 <center>
-    <img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="50%"/>
+    <img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="75%"/>
 </center>
 
 <h1 style = "color:#93bd20"> The Sea Levels Section </h1>
