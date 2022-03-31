@@ -12,8 +12,10 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     </video>
 </p>
 <p align="center">
-    <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
-    <img src="{{site.url}}/docs/assets/img/covid_deathrate.gif" alt="Deathrate of Covid-19" width="100%" style="display: inline; border-width: 0px;" />
+    <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br
+    <video autoplay loop muted playsinline>
+        <source src="{{site.url}}/docs/assets/img/covid_deathrate.mp4" type="video/mp4" width=100%>
+    </video>
 </p>
 <p align="center">
     <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b> <br> Can you spot any suspicious subjects?
