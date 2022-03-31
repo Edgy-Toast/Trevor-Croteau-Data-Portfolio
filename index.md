@@ -23,7 +23,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
     <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b>
 </p>
 <p align="center" style="margin-top:0; paddding-top:0">Can you spot any outliers? What may contribute?</p>
-<img align = "center" src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="50%" style="display: inline; border-width: 0px;" />
+<img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="50%" style="display: inline; border-width: 0px;" align = "center"/>
 
 <h1 style = "color:#93bd20"> The Sea Levels Section </h1>
 This is a project for a Climate Dashboard website: When published, this will be updated with its link. For now, we have simply demonstrations of what will be on the site.
