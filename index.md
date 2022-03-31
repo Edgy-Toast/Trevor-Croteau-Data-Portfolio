@@ -14,7 +14,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 <p align="center" style="margin-bottom:0; color:#ffcc00">
     <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b>
 </p>
-<p align="center" style="margin:0; paddding-top:0">(as a % of confirmed cases)</p>
+<p align="center" style="margin-top:0; paddding-top:0">(as a % of confirmed cases)</p>
 <video autoplay loop muted playsinline width="100%">
     <source src="{{site.url}}/docs/assets/img/covid_deathrate.mp4" type="video/mp4">
 </video>
@@ -22,7 +22,7 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 <p align="center" style="margin-bottom:0; color:#ffcc00">
     <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b>
 </p>
-<p align="center" style="margin:0; paddding-top:0">Can you spot any outliers? What may contribute?</p>
+<p align="center" style="margin-top:0; paddding-top:0">Can you spot any outliers? What may contribute?</p>
 <img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="100%" style="display: inline; border-width: 0px;" />
 
 <h1 style = "color:#93bd20"> The Sea Levels Section </h1>
