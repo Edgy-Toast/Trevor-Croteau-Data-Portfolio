@@ -12,9 +12,9 @@ This is a place for my journey through learning data science. I will include the
     <img src="{{site.url}}/docs/assets/img/logos/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/pandas-original-wordmark.svg" title="Pandas" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
-    <img src="{{site.url}}/docs/assets/img/logos/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/github-original-wordmark.svg" title="Github" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/r-original.svg" title="R" width="40" height="40"/>&nbsp;
-    <img src="{{site.url}}/docs/assets/img/logos/css3-plain-wordmark.svg"  title="CSS3" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/css3-original-wordmark.svg"  title="CSS3" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
     <img src="{{site.url}}/docs/assets/img/logos/materialui-original.svg" title="Material UI" width="40" height="40"/>&nbsp;
