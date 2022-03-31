@@ -5,7 +5,7 @@ This is a place for my journey through learning data science. I will include the
 <ul>
     <li>Looking for a job in data analytics or software development.</li>
     <li>Completing a Google Data Analytics certificate from Coursera.</li>
-    <li>Implementing rigorous data analytics to confirm the accuracy of my research project's Monte Carlo integration</li>
+    <li>Implementing data analytics to confirm the accuracy of my research's Monte Carlo integration</li>
     <li>Completing my Astronomy courses at Texas A&M.</li>
 </ul>
 <h3 style = "color:#659e10"> :hammer_and_wrench: Languages and Tools : </h3>
