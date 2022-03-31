@@ -1,13 +1,13 @@
 <h1 style = "color:#93bd20"> Trevor Croteau's Data Science Portfolio </h1>
 This is a place for my journey through learning data science. I will include the code produced for each project of my mine as well as a brief description and the visualizations produced. This page was first published March 23, 2022.
-<h1 style = "color:#93bd20"> 👨‍💻 What I'm Currently Doing </h3>
+<h1 style = "color:#93bd20"> 👨‍💻 What I'm Currently Doing </h1>
 <ul>
     <li>Looking for a job in data analytics or software development.</li>
     <li>Completing a Google Data Analytics certificate from Coursera.</li>
     <li>Implementing data analytics to confirm the accuracy of my research's Monte Carlo integration</li>
     <li>Completing my Astronomy courses at Texas A&M.</li>
 </ul>
-<h1 style = "color:#93bd20"> 🛠️ Languages and Tools </h3>
+<h1 style = "color:#93bd20"> 🛠️ Languages and Tools </h1>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
