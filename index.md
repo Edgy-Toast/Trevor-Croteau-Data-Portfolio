@@ -1,3 +1,4 @@
+<video autoplay loop muted playsinline></video>
 <h1 style = "color:#93bd20"> Trevor Croteau's Data Science Portfolio </h1>
 This is a place for my journey through learning data science. I will include the code produced for each project of my mine as well as a brief description and the visualizations produced. This page was first published March 23, 2022.
 <h1 style = "color:#93bd20"> The Covid-19 Section </h1>
@@ -6,7 +7,9 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 <br>
 <p align="center">
     <b>Confirmed Cases of Covid-19 for the 10 Most Populous Countries</b> <br>
-    <img src="{{site.url}}/docs/assets/img/covid_confirmed.gif" alt="Confirmed cases of Covid-19" width="100%" style="display: inline; border-width: 0px;" />
+    <video autoplay loop muted playsinline>
+        <source src="{{site.url}}/docs/assets/img/covid_confirmed.mp4" type="video/mp4" width=100%>
+    </video>
 </p>
 <p align="center">
     <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
