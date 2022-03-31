@@ -9,7 +9,7 @@ This is a place for my journey through learning data science. I will include the
     <li>Completing my Astronomy courses at Texas A&M.</li>
 </ul>
 <h3 style = "color:#659e10"> Languages and Tools </h3>
-<center><div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -22,7 +22,7 @@ This is a place for my journey through learning data science. I will include the
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-</div></center>
+</div>
 <h1 style = "color:#93bd20"> The Covid-19 Section </h1>
 <h3 style = "color:#659e10"> Data </h3>
 Johns Hopkins University Center for Systems Science and Engineering (CSSE) has done a wonderful job at keeping up-to-date information on the novel Covid-19 pandemic. The github Covid-19 dataset can be found at https://github.com/datasets/covid-19 under an open-source license. It is already cleaned, and so we can begin on analysis steps.
