@@ -6,17 +6,17 @@ This is a place for my journey through learning data science. I will include the
 Johns Hopkins University Center for Systems Science and Engineering (CSSE) has done a wonderful job at keeping up-to-date information on the novel Covid-19 pandemic. The github Covid-19 dataset can be found at https://github.com/datasets/covid-19 under an open-source license. It is already cleaned, and so we can begin on analysis steps.
 <br>
 <p align="center">
-    <b>Confirmed Cases of Covid-19 for the 10 Most Populous Countries</b> <br>
-    <video autoplay loop muted playsinline>
-        <source src="{{site.url}}/docs/assets/img/covid_confirmed.mp4" type="video/mp4" width=100%>
-    </video>
+    <b>Confirmed Cases of Covid-19 for the 10 Most Populous Countries</b>
 </p>
+<video autoplay loop muted playsinline>
+    <source src="{{site.url}}/docs/assets/img/covid_confirmed.mp4" type="video/mp4" width=100%>
+</video>
 <p align="center">
-    <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br
-    <video autoplay loop muted playsinline>
-        <source src="{{site.url}}/docs/assets/img/covid_deathrate.mp4" type="video/mp4" width=100%>
-    </video>
+    <b>Total Combined Deathrate of Covid-19 for the 10 Most Populous Countries</b> <br> (as a % of confirmed cases) <br>
 </p>
+<video autoplay loop muted playsinline>
+    <source src="{{site.url}}/docs/assets/img/covid_deathrate.mp4" type="video/mp4" width=100%>
+</video>
 <p align="center">
     <b>Population Size Visualizations with Logarithmic and Non-Logarithmic Confirmed Cases</b> <br> Can you spot any suspicious subjects?
     <img src="{{site.url}}/docs/assets/img/Population_Sizes.png" alt="Population Sizes" width="100%" style="display: inline; border-width: 0px;" />
