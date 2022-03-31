@@ -9,18 +9,18 @@ This is a place for my journey through learning data science. I will include the
 </ul>
 <h1 style = "color:#93bd20"> 🛠️ Languages and Tools </h1>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/pandas-original-wordmark.svg" title="Pandas" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/r-original.svg" title="R" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/css3-plain-wordmark.svg"  title="CSS3" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/materialui-original.svg" title="Material UI" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="{{site.url}}/docs/assets/img/logos/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 <h1 style = "color:#93bd20"> 🦠 The Covid-19 Section </h1>
 <h3 style = "color:#659e10"> Data </h3>
