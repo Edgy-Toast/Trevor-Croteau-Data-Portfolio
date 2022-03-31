@@ -8,7 +8,7 @@ This is a place for my journey through learning data science. I will include the
     <li>Implementing rigorous data analytics to confirm the accuracy of my research project's Monte Carlo integration</li>
     <li>Completing my Astronomy courses at Texas A&M.</li>
 </ul>
-<h3 style = "color:#659e10"> Languages and Tools </h3>
+<h3 style = "color:#659e10"> :hammer_and_wrench: Languages and Tools : </h3>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
