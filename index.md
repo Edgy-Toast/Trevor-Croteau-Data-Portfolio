@@ -1,5 +1,28 @@
 <h1 style = "color:#93bd20"> Trevor Croteau's Data Science Portfolio </h1>
 This is a place for my journey through learning data science. I will include the code produced for each project of my mine as well as a brief description and the visualizations produced. This page was first published March 23, 2022.
+<h1 style = "color:#93bd20"> About Me </h1>
+<h3 style = "color:#659e10"> What I'm Currently Doing </h3>
+<ul>
+    <li>Looking for a job in data analytics or software development.</li>
+    <li>Completing a Google Data Analytics certificate from Coursera.</li>
+    <li>Implementing rigorous data analytics to confirm the accuracy of my research project's Monte Carlo integration</li>
+    <li>Completing my Astronomy courses at Texas A&M.</li>
+</ul>
+<h3 style = "color:#659e10"> Languages and Tools </h3>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
 <h1 style = "color:#93bd20"> The Covid-19 Section </h1>
 <h3 style = "color:#659e10"> Data </h3>
 Johns Hopkins University Center for Systems Science and Engineering (CSSE) has done a wonderful job at keeping up-to-date information on the novel Covid-19 pandemic. The github Covid-19 dataset can be found at https://github.com/datasets/covid-19 under an open-source license. It is already cleaned, and so we can begin on analysis steps.
