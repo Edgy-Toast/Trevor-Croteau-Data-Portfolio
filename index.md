@@ -25,6 +25,9 @@ Johns Hopkins University Center for Systems Science and Engineering (CSSE) has d
 This is a project for a Climate Dashboard website: When published, this will be updated with its link. For now, we have simply demonstrations of what will be on the site.
 <h3 style = "color:#659e10"> Changing Sea Level Animations </h3>
 Although it is not made clear in the images, they run from 0ft change in sea level to a 10ft change in sea level. This is instead made clear via the website's UI.
-<p align="center" style="color:#ffcc00">Florida Bathtub Model (10 feet)<img src="{{site.url}}/FL_bathtub.gif" alt="Florida Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
-<p align="center" style="color:#ffcc00">Texas Bathtub Model (10 feet)<img src="{{site.url}}/TX_bathtub.gif" alt="Texas Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
-<p align="center" style="color:#ffcc00">New Jersey Bathtub Model (10 feet)<img src="{{site.url}}/NJ_bathtub.gif" alt="New Jersey Bathtub Model" width="100%" style="display: inline; border-width: 0px;" /></p>
+<p align="center" style="color:#ffcc00"><b>Florida Bathtub Model (10 feet)</b></p>
+<img src="{{site.url}}/FL_bathtub.gif" alt="Florida Bathtub Model" width="100%" style="display: inline; border-width: 0px;" />
+<p align="center" style="color:#ffcc00"><b>Texas Bathtub Model (10 feet)</b></p>
+<img src="{{site.url}}/TX_bathtub.gif" alt="Texas Bathtub Model" width="100%" style="display: inline; border-width: 0px;" />
+<p align="center" style="color:#ffcc00"><b>New Jersey Bathtub Model (10 feet)</b></p>
+<img src="{{site.url}}/NJ_bathtub.gif" alt="New Jersey Bathtub Model" width="100%" style="display: inline; border-width: 0px;" />
