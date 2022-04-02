@@ -60,4 +60,3 @@ Although it is not made clear in the images, they run from 0ft change in sea lev
 <img src="{{site.url}}/TX_bathtub.gif" alt="Texas Bathtub Model" width="100%" style="display: inline; border-width: 0px;" />
 <p align="center" style="color:#ffcc00"><b>New Jersey Bathtub Model (10 feet)</b></p>
 <img src="{{site.url}}/NJ_bathtub.gif" alt="New Jersey Bathtub Model" width="100%" style="display: inline; border-width: 0px;" />
-<iframe title="Covid" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=83b85730-b9dd-4496-b74a-03dba49bfb33&autoAuth=true&ctid=d8d5afa6-45d3-4b71-837c-3ee54311c852&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWNlbnRyYWwtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
